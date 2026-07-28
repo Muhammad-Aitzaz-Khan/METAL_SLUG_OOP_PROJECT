@@ -21,7 +21,7 @@ Honestly, this took a lot out of us. Between late-night debugging sessions, fixi
 
 ### 🛠️ C++ & OOP Architecture
 
-We built everything natively in pure C++ using MSVC/Visual Studio, relying on core standard library containers (`std::vector`, string streams) while sticking strictly to solid OOP fundamentals.
+We built everything natively in pure C++ using MSVC/Visual Studio, sticking strictly to solid OOP fundamentals.
 
 <details>
 <summary>🔑 <b>Click to expand how we implemented core OOP pillars</b></summary>
