@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\source\\repos\\METAL_SLUG_OOP_PROJECT\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C06729A4-0B18-413D-BAD5-322F5C9C6A5B}|METAL_SLUG_OOP_PROJECT.vcxproj|C:\\Users\\HP\\source\\repos\\METAL_SLUG_OOP_PROJECT\\Header.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C06729A4-0B18-413D-BAD5-322F5C9C6A5B}|METAL_SLUG_OOP_PROJECT.vcxproj|solutionrelative:Header.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C06729A4-0B18-413D-BAD5-322F5C9C6A5B}|METAL_SLUG_OOP_PROJECT.vcxproj|C:\\Users\\HP\\source\\repos\\METAL_SLUG_OOP_PROJECT\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C06729A4-0B18-413D-BAD5-322F5C9C6A5B}|METAL_SLUG_OOP_PROJECT.vcxproj|solutionrelative:Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Header.h",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\METAL_SLUG_OOP_PROJECT\\Header.h",
+              "RelativeDocumentMoniker": "Header.h",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\METAL_SLUG_OOP_PROJECT\\Header.h",
+              "RelativeToolTip": "Header.h",
+              "ViewState": "AgIAAEQBAAAAAAAAAAAAAEwBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-04-21T15:03:14.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\METAL_SLUG_OOP_PROJECT\\Source.cpp",
+              "RelativeDocumentMoniker": "Source.cpp",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\METAL_SLUG_OOP_PROJECT\\Source.cpp",
+              "RelativeToolTip": "Source.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-21T13:18:45.135Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
