@@ -1,57 +1,45 @@
 <div align="center">
 
-  <h1>🚀 Object-Oriented Programming — Final Project</h1>
-  <p><b>A Comprehensive Implementation of Fundamental OOP Principles & System Design</b></p>
+  <h1>⚡ OOP Final Project — METAL SLUG</h1>
+  <p><b>Designed & Engineered for CS Semester 2</b></p>
 
-  [![Course](https://img.shields.io/badge/Course-OOP%20(2nd%20Semester)-blue?style=for-the-badge&logo=academic-pages)](#)
-  [![Language](https://img.shields.io/badge/Language-C%2B%2B%20%2F%20Java-orange?style=for-the-badge&logo=codeforces)](#)
-  [![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)](#)
+  [![Language](https://img.shields.io/badge/Language-C%2B%2B17-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](#)
+  [![Build](https://img.shields.io/badge/Compiler-GCC%20%2F%20Clang-brightgreen?style=for-the-badge)](#)
+  [![Course](https://img.shields.io/badge/Course-Object%20Oriented%20Programming-blueviolet?style=for-the-badge)](#)
 
 </div>
 
 ---
 
-## 📌 Project Overview
+### 💬 Behind the Project
 
-Welcome to our Object-Oriented Programming (OOP) semester final project! Designed and engineered from the ground up during our 2nd semester of Computer Science, this system demonstrates real-world application of modular architecture, class hierarchies, and robust software design.
+This repo holds our final submission for the Object-Oriented Programming (CS 2nd Semester) course. 
 
-> *"Building this project was a labor of relentless debugging, late-night architecture planning, and teamwork. We aimed not just to write code that works, but to craft code that scales."*
+Honestly, this took a lot out of us. Between late-night debugging sessions, fighting memory leaks, and refactoring class structures when things got messy, **Ayaan** and I spent weeks turning initial whiteboard sketches into a fully functional C++ system. We didn't just want to meet the rubric—we wanted to build something fast, modular, and clean.
 
 ---
 
-## 🧱 Core OOP Principles Demonstrated
+### 🛠️ C++ & OOP Architecture
+
+We built everything natively in pure C++, relying on standard library features (`std::vector`, smart pointers, RAII) while sticking strictly to solid OOP fundamentals.
 
 <details>
-<summary><b>1. Encapsulation</b> <i>(Click to expand)</i></summary>
+<summary>🔑 <b>Click to expand how we implemented core OOP pillars</b></summary>
 
-* **Data Hiding:** Private and protected data members ensure internal states cannot be directly manipulated from outside the class scope.
-* **Getters & Setters:** Controlled access points provided with built-in validation rules.
-</details>
+<br>
 
-<details>
-<summary><b>2. Inheritance & Class Hierarchies</b> <i>(Click to expand)</i></summary>
+* **Encapsulation:** All critical member variables are strictly private/protected. State modification only happens through validated member functions to prevent dangling references or illegal operations.
+* **Inheritance:** Built extensible base classes so specialized components inherit core behaviors without code duplication.
+* **Polymorphism:** Leveraged dynamic dispatch via `virtual` methods, pure virtual functions (interfaces), and runtime method overriding.
+* **Memory Management:** Used RAII principles to ensure resources clean up after themselves, avoiding heap memory leaks.
 
-* **Code Reusability:** Derived classes extend base functionality without repeating code blocks.
-* **Polymorphic Behavior:** Virtual functions and method overriding allow dynamic binding at runtime.
-</details>
-
-<details>
-<summary><b>3. Abstraction</b> <i>(Click to expand)</i></summary>
-
-* **Clean Interfaces:** Abstract base classes / interfaces define clear contracts for functionality while hiding complex implementation details.
-</details>
-
-<details>
-<summary><b>4. Polymorphism & Design</b> <i>(Click to expand)</i></summary>
-
-* Overloaded constructors and operators provide flexible instantiation and intuitive syntax.
 </details>
 
 ---
 
-## 📐 System Design & UML Architecture
+### 📐 System Design & UMLs
 
-The project architecture was strictly mapped out before implementation using Unified Modeling Language (UML):
+Before writing a single line of code, we mapped out the system logic using UML diagrams:
 
-* **Use Case Diagrams:** Defined user roles and system boundaries.
-* **Class Diagrams:** Outlined relationships (`Inheritance`, `Aggregation`, and `Composition`).
+* **Use Case Diagrams:** To nail down user interactions and permissions.
+* **Class Diagrams:** To visualize inheritance chains, compositions, and relationships between objects.
